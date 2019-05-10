@@ -1,6 +1,6 @@
 # ximalaya-audio
 
-喜马拉雅(https://www.ximalaya.com/)请求头字段 xm-sign 破解和付费音频地址分析（非破解）
+[喜马拉雅](https://www.ximalaya.com/) 请求头字段 xm-sign 解析和付费音频地址分析（非破解）
 
 ## xm-sign 字段
 
